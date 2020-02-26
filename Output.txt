@@ -1,0 +1,550 @@
+﻿MR
+10
+Which tool within Azure is comprised of : Azure Status, Service Health and Resource Health?
+​
+Azure Advisor
+​
+Azure Monitor
+​
+Azure Dashboard
+*​
+Azure Service Health
+
+   
+MR
+10
+Which of the following is not a feature of Azure Functions?
+​
+Can possibly cost you nothing as there is a generous free tier
+​
+Can trigger the function based off of Azure events such as a new file being saved to a storage account blob container
+*​
+Designed for backend batch applications that are continuously running
+
+   
+MR
+10
+Where do you go within the Azure Portal to find all of the third-party virtual machine and other offers?
+​
+Choose an image when creating a VM
+​
+Azure mobile app
+​
+Bing
+*​
+Azure Marketplace
+
+   
+MR
+10
+What is the minimum charge for having an Azure Account each month, even if you don't use any resources?
+​
+$1
+​
+$200
+​
+Negotiated with your enterprise manager
+*​
+$0
+
+   
+MR
+10
+What is the maximum amount of Azure Storage space a single subscription can store?
+​
+5 PB
+​
+2 TB
+*​
+Virtually unlimited
+
+   
+MR
+10
+What makes estimating the cost of an unmanaged storage account difficult?
+​
+There is no way to predict the amount of data in the account
+​
+You are charged for data coming into Azure, and it's difficult to predict that
+​
+The cost of storage changes frequently
+*​
+You are charged for data leaving Azure, and it's difficult to predict that
+
+   
+MR
+10
+Why is Azure App Services considered Platform as a Service?
+​
+You are responsible for keeping the operating system up to date with the latest patches
+​
+You can decide on what type of virtual machine it runs - A-series, or D-series, or even H-series
+*​
+
+You give Azure the code and configuration, and you have no access to the underlying hardware
+
+
+   
+MR
+10
+Within the context of privacy and compliance, what does the acronym ISO stand for, in English?
+​
+Instead of
+​
+Intelligence and Security Office
+​
+Information Systems Officer
+*​
+International Organization for Standardization
+
+   
+MR
+10
+How many regions does Azure have in Brazil?
+​
+0
+​
+2
+​
+4
+*​
+1
+
+   
+MR
+10
+How do you get access to services in Private Preview mode?
+​
+You cannot use private preview services.
+​
+They are available in the marketplace. You simply use them.
+*​
+You must apply to use them.
+
+   
+MR
+10
+Which of the following elements is considered part of the "perimeter" layer of security?
+​
+Locks on the data center doors
+​
+Keep operating systems up to date with patches
+​
+Separate servers into distinct subnets by role
+*​
+Use a firewall
+
+   
+MR
+10
+Which Azure service is the recommended Identity-as-a-Service offering inside Azure?
+​
+Identity and Access Management (IAM)
+​
+Azure Front Door
+​
+Azure Portal
+*​
+Azure Active Directory 
+   
+MR
+10
+What is the concept of Availability?
+​
+A system must have 100% uptime to be considered available
+​
+A system that has a single point of failure
+*​
+The percentage of time a system responds properly to requests, expressed as a percentage over time
+
+   
+  
+MR
+10
+Application Gateway contains what additional optional security feature over a regular Load Balancer?
+​
+Advanced DDoS Protection
+​
+Multi-Factor Authentication
+*​
+Web Application Firewall 
+   
+MR
+10
+What does it mean if a service is in Public Preview mode?
+​
+The service is generally available for use, and Microsoft will provide support for it
+​
+You have to apply to get selected in order to use that service
+​
+Anyone can use the service for any reason
+*​
+Anyone can use the service but it must not be for production use
+
+   
+MR
+10
+What is the service level agreement for two or more Azure Virtual Machines that have been manually placed into different Availability Zones in the same region?
+​
+99.90%
+​
+100%
+​
+99.95%
+*​
+99.99%
+
+   
+MR
+10
+Which free Azure security service checks all traffic travelling over a subnet against a set of rules before allowing it in, or out.
+​
+Azure DDoS Protection
+​
+Azure Firewall
+*​
+Network Security Group
+
+   
+MR
+10
+In which US state is the East US 2 region?
+​
+California
+​
+Texas
+*​
+Virginia
+
+   
+
+MR
+10
+What Azure resource allows you to evenly split traffic coming in and direct it to several identical virtual machines to do the work and respond to the request?
+​
+Azure Logic Apps
+​
+Azure App Services
+​
+Virtual Network
+*​
+Load Balancer or Application Gateway
+
+   
+TR
+10
+True or false: Azure charges for bandwidth used "inbound" to Azure
+​
+TRUE
+*​
+FALSE
+
+   
+MR
+10
+What is the new data privacy and information protection regulation that took effect across Europe in May 2018?
+​
+PCI DSS
+​
+ISO 9001:2015
+*​
+GDPR
+
+   
+MR
+10
+What Azure product allows you to autoscale virtual machines from 1 to 1000 instances, and also provides load balancing services built in?
+​
+Application Gateway
+What two types of DDoS protection services does Azure provide? Select two.  
+​
+Azure App Services
+*​
+Virtual Machine Scale Sets
+
+   
+MR
+10
+What would be a good reason to have multiple Azure subscriptions?
+​
+
+There is one person/credit card paying for resources, and only one person who logs into Azure to manage the resources, but you want to be able to know which resources are used for which client project.
+*​
+There is one person/credit card paying for resources, but many people who have accounts in Azure, and you need to separate out resources between clients so that there is absolutely no chance of resources being exposed between them.
+
+   
+MR
+10
+Which of the following scenarios would Azure Policy be a recommended method for enforcement?
+​
+Allow only one specific roles of users to have access to a resource group
+​
+Require a virtual machine to always update to the latest security patches
+*​
+Prevent certain Azure Virtual Machine instance types from being used in a resource group
+
+   
+MR
+10
+Which of the following cloud computing models requires the highest level of involvement in maintaining the operating system and file system by the customer?
+​
+FaaS
+​
+PaaS
+*​
+IaaS
+
+   
+MR
+10
+What is the benefit of using a command line tool like Powershell or CLI as opposed to the Azure portal?
+​
+Quicker to deploy VMs
+​
+Cheaper
+*​
+Automation
+
+   
+MR
+10
+Why is user id and password sometimes not enough to prove someone is who they say they are?
+​
+Passwords must be encrypted before being stored
+​
+Passwords are usually easy to forget
+​
+Some people might choose the same user id and password
+*        
+      
+What is one way to increase the security of a traditional user id and password system?     
+      
+What is one way to increase the security of a traditional user id and password system?     
+
+   
+MR
+10
+Besides Azure Service Health, where else can you find out any issues that affect the Azure global network that affect you?
+​
+Azure will email you
+​
+Install the Azure app on your phone
+​
+Azure Updates Blog
+*​
+Each Virtual Machine has a Resource Health blade
+
+   
+MR
+10
+What database service is specifically designed to be extremely fast in responding to requests for small amounts of data (called low latency)?
+​
+SQL Database
+​
+SQL Data Warehouse
+​
+SQL Server in a VM
+*​
+Cosmos DB
+
+   
+MR
+10
+What is the benefit of using Powershell over CLI?
+​
+Quicker to deploy VMs
+​
+Cheaper
+*​
+No benefit, it's the same
+
+   
+TR
+10
+True or false: Azure Cloud Shell allows access to the CLI and Powershell consoles in the Azure Portal
+​
+FALSE    
+      
+*​
+TRUE
+
+   
+MR
+10
+What is the concept of paired regions?
+​
+When you deploy your code to one region of the world, it is automatically deployed to the paired region as an emergency backup.
+​
+Each region of the world has one other region, usually in a completely separate country and geography, where it makes the most sense to place your backups. Like East US 2 is paired with South Korea.
+*​
+Each region in the world has at least one other region in which is shares an extremely high speed connection, and where there is coordinated action by Azure not to do anything that will bring them both down at the same time.
+
+   
+MR
+10
+Which of the following is a good example of a Hybrid cloud?
+​
+
+Technology that allows you to grow living tissue on top of an exoskeleton, making Terminators impossible to spot among humans.
+​
+Your users are inside your corporate network but your applications and data are in the cloud.
+*​
+A server runs in your own environment, but places files in the cloud so that it can extend the amount of storage it has access to.
+
+   
+MR
+10
+What is the concept of Big Data?
+​
+A small sensor or other device that constantly sends it's status and other data to the cloud
+​
+A set of Azure services that allow you to use execute code in the cloud but don’t require (or even allow) you to manage the underlying server
+​
+A form of artificial intelligence (AI) that allows systems to automatically learn and improve from experience without being explicitly programmed.
+*​
+An extremely large set of data that you want to ingest and do analysis on; traditional software like SQL Server cannot handle Big Data as efficiently as specialized products
+
+   
+MR
+10
+What does ARM stand for in Azure?
+​
+Account Resource Manager
+​
+Availability, Reliability, Maintainability
+*​
+Azure Resource Manager
+
+   
+MR
+10
+What does it mean if a service is in General Availability (GA) mode?
+​
+You have to apply to get selected in order to use that service
+​
+The service is generally available for use, and Microsoft will provide support for it
+*​
+Anyone can use the service for any reason
+
+   
+MR
+10
+Which of the following is considered a downside to using Capital Expenditure (CapEx)?
+​
+You are not guaranteed to make a profit
+​
+It does not require a lot of up front money
+*​
+You must wait over a period of years to depreciate that investment on your taxes
+
+   
+MR
+10
+Each person has their own user id and password to log into Azure. But how many subscriptions can a single account be associated with?
+​
+250 per region
+​
+10
+​
+One
+*​
+No limit
+
+   
+MR
+10
+What is the Azure SLA for two or more Virtual Machines in an Availability Set?
+​
+100%
+​
+99.90%
+*​
+99.95%
+
+   
+MR
+10
+Approximately how many regions does Azure have around the world?
+​
+25
+​
+100
+​
+10
+*​
+54
+
+   
+MR
+10
+Which of the following is not an example of Infrastructure as a Service?
+​
+Virtual Network
+​
+Virtual Machine Scale Sets
+​
+Virtual Machine
+*​
+Azure SQL Database
+
+   
+MR
+10
+In what way does Multi-Factor Authentication increase the security of a user account?
+​
+It requires users to provide a fingerprint or other biometric identification.
+​
+It doesn't. Multi-Factor Authentication is more about access and authentication than account security.
+​
+It requires users to be approved before they can log in for the first time.
+*​
+
+It requires the user to possess something like their phone to read an SMS or use a mobile app.
+
+
+   
+MR
+10
+What is the concept of being able to get your applications and data running in another environment quickly?
+​
+Azure Devops
+​
+Azure Blueprint
+*​
+Business Continuity / Disaster Recovery 
+   
+MR
+10
+What is a benefit of economies of scale?
+​
+Prices of cloud servers and services are always going down. It'll be cheaper next year than it is this year.
+​
+Big companies don't need to make a profit on every sale
+*​
+The more you buy of something, the cheaper it is for you
+
+   
+MR
+10
+If you are a US federal, state, local, or tribal government entities and their solution providers, which Azure option should you be looking to register for?
+​
+Azure Department of Defence
+​
+Azure Public Portal
+​
+Azure is not available for government officials
+*​
+Azure Government
+
+   
+MR
+10
+Windows servers use "remote desktop protocol" (RDP) in order for administrators to get access to manage the server. Linux servers use SSH. What is the recommendation for ensuring the security of these protocols?
+​
+Disable RDP access using the Windows Services control panel admin tool
+​
+Ensure strong passwords on your Windows admin accounts
+*​
+Do not allow public Internet access over the RDP and SSH ports directly to the server. Instead use a secure server like Bastion to control access to the servers behind.
+
+   
